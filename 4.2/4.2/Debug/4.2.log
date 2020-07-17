@@ -1,0 +1,3 @@
+﻿  源.cpp
+F:\Code\C++ Primer\4.2\4.2\源.cpp(8): warning C4804: “-”: 在操作中使用类型“bool”不安全
+  4.2.vcxproj -> F:\Code\C++ Primer\4.2\Debug\4.2.exe
